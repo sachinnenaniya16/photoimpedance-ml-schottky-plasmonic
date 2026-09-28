@@ -1,0 +1,16 @@
+Target,Kernel,R2_GroupedLOOCV
+Photocurrent J (-0.7 V),RBF,0.1217
+Photocurrent J (-0.7 V),Matern_1.5,0.2383
+Photocurrent J (-0.7 V),Matern_2.5,0.1528
+Charge transfer resistance,RBF,0.9265
+Charge transfer resistance,Matern_1.5,0.9297
+Charge transfer resistance,Matern_2.5,0.9268
+LSPR resistance drop,RBF,0.907
+LSPR resistance drop,Matern_1.5,0.8934
+LSPR resistance drop,Matern_2.5,0.8987
+Relaxation time,RBF,0.9022
+Relaxation time,Matern_1.5,0.9032
+Relaxation time,Matern_2.5,0.9048
+Tafel slope,RBF,-1.792
+Tafel slope,Matern_1.5,-1.4497
+Tafel slope,Matern_2.5,-1.9448

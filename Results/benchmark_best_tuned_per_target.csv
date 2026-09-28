@@ -1,0 +1,6 @@
+Target,Best tuned model,R2_GroupedLOOCV
+Photocurrent J (-0.7 V),RF,0.4974
+Charge transfer resistance,GPR,0.9297
+LSPR resistance drop,GPR,0.907
+Relaxation time,GPR,0.9048
+Tafel slope,SVR,-0.0071

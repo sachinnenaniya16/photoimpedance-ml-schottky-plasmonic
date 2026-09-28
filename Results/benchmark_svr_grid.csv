@@ -1,0 +1,601 @@
+Target,C,epsilon,gamma,kernel,R2_GroupedLOOCV
+Photocurrent J (-0.7 V),1.0,0.01,scale,rbf,0.2756
+Photocurrent J (-0.7 V),1.0,0.01,scale,poly,-0.002
+Photocurrent J (-0.7 V),1.0,0.01,0.01,rbf,0.4488
+Photocurrent J (-0.7 V),1.0,0.01,0.01,poly,-0.2098
+Photocurrent J (-0.7 V),1.0,0.01,0.1,rbf,0.0225
+Photocurrent J (-0.7 V),1.0,0.01,0.1,poly,-0.0821
+Photocurrent J (-0.7 V),1.0,0.01,1.0,rbf,-0.0802
+Photocurrent J (-0.7 V),1.0,0.01,1.0,poly,-0.082
+Photocurrent J (-0.7 V),1.0,0.1,scale,rbf,0.2418
+Photocurrent J (-0.7 V),1.0,0.1,scale,poly,0.0325
+Photocurrent J (-0.7 V),1.0,0.1,0.01,rbf,0.3887
+Photocurrent J (-0.7 V),1.0,0.1,0.01,poly,-0.0915
+Photocurrent J (-0.7 V),1.0,0.1,0.1,rbf,-0.0061
+Photocurrent J (-0.7 V),1.0,0.1,0.1,poly,-0.0327
+Photocurrent J (-0.7 V),1.0,0.1,1.0,rbf,-0.0763
+Photocurrent J (-0.7 V),1.0,0.1,1.0,poly,-0.0327
+Photocurrent J (-0.7 V),1.0,0.5,scale,rbf,0.0904
+Photocurrent J (-0.7 V),1.0,0.5,scale,poly,0.0282
+Photocurrent J (-0.7 V),1.0,0.5,0.01,rbf,0.2047
+Photocurrent J (-0.7 V),1.0,0.5,0.01,poly,0.0015
+Photocurrent J (-0.7 V),1.0,0.5,0.1,rbf,-0.0671
+Photocurrent J (-0.7 V),1.0,0.5,0.1,poly,-0.0502
+Photocurrent J (-0.7 V),1.0,0.5,1.0,rbf,-0.0848
+Photocurrent J (-0.7 V),1.0,0.5,1.0,poly,-0.0502
+Photocurrent J (-0.7 V),10.0,0.01,scale,rbf,0.248
+Photocurrent J (-0.7 V),10.0,0.01,scale,poly,-0.082
+Photocurrent J (-0.7 V),10.0,0.01,0.01,rbf,0.2954
+Photocurrent J (-0.7 V),10.0,0.01,0.01,poly,-0.0016
+Photocurrent J (-0.7 V),10.0,0.01,0.1,rbf,0.0104
+Photocurrent J (-0.7 V),10.0,0.01,0.1,poly,-0.0821
+Photocurrent J (-0.7 V),10.0,0.01,1.0,rbf,-0.0754
+Photocurrent J (-0.7 V),10.0,0.01,1.0,poly,-0.082
+Photocurrent J (-0.7 V),10.0,0.1,scale,rbf,0.2297
+Photocurrent J (-0.7 V),10.0,0.1,scale,poly,-0.0328
+Photocurrent J (-0.7 V),10.0,0.1,0.01,rbf,0.3328
+Photocurrent J (-0.7 V),10.0,0.1,0.01,poly,0.0124
+Photocurrent J (-0.7 V),10.0,0.1,0.1,rbf,-0.0115
+Photocurrent J (-0.7 V),10.0,0.1,0.1,poly,-0.0327
+Photocurrent J (-0.7 V),10.0,0.1,1.0,rbf,-0.0748
+Photocurrent J (-0.7 V),10.0,0.1,1.0,poly,-0.0327
+Photocurrent J (-0.7 V),10.0,0.5,scale,rbf,0.0904
+Photocurrent J (-0.7 V),10.0,0.5,scale,poly,-0.0502
+Photocurrent J (-0.7 V),10.0,0.5,0.01,rbf,0.208
+Photocurrent J (-0.7 V),10.0,0.5,0.01,poly,0.0612
+Photocurrent J (-0.7 V),10.0,0.5,0.1,rbf,-0.0671
+Photocurrent J (-0.7 V),10.0,0.5,0.1,poly,-0.0502
+Photocurrent J (-0.7 V),10.0,0.5,1.0,rbf,-0.0848
+Photocurrent J (-0.7 V),10.0,0.5,1.0,poly,-0.0502
+Photocurrent J (-0.7 V),100.0,0.01,scale,rbf,0.248
+Photocurrent J (-0.7 V),100.0,0.01,scale,poly,-0.082
+Photocurrent J (-0.7 V),100.0,0.01,0.01,rbf,0.2921
+Photocurrent J (-0.7 V),100.0,0.01,0.01,poly,-0.0794
+Photocurrent J (-0.7 V),100.0,0.01,0.1,rbf,0.0104
+Photocurrent J (-0.7 V),100.0,0.01,0.1,poly,-0.0821
+Photocurrent J (-0.7 V),100.0,0.01,1.0,rbf,-0.0754
+Photocurrent J (-0.7 V),100.0,0.01,1.0,poly,-0.082
+Photocurrent J (-0.7 V),100.0,0.1,scale,rbf,0.2297
+Photocurrent J (-0.7 V),100.0,0.1,scale,poly,-0.0328
+Photocurrent J (-0.7 V),100.0,0.1,0.01,rbf,0.3328
+Photocurrent J (-0.7 V),100.0,0.1,0.01,poly,-0.0339
+Photocurrent J (-0.7 V),100.0,0.1,0.1,rbf,-0.0115
+Photocurrent J (-0.7 V),100.0,0.1,0.1,poly,-0.0327
+Photocurrent J (-0.7 V),100.0,0.1,1.0,rbf,-0.0748
+Photocurrent J (-0.7 V),100.0,0.1,1.0,poly,-0.0327
+Photocurrent J (-0.7 V),100.0,0.5,scale,rbf,0.0904
+Photocurrent J (-0.7 V),100.0,0.5,scale,poly,-0.0502
+Photocurrent J (-0.7 V),100.0,0.5,0.01,rbf,0.208
+Photocurrent J (-0.7 V),100.0,0.5,0.01,poly,-0.0502
+Photocurrent J (-0.7 V),100.0,0.5,0.1,rbf,-0.0671
+Photocurrent J (-0.7 V),100.0,0.5,0.1,poly,-0.0502
+Photocurrent J (-0.7 V),100.0,0.5,1.0,rbf,-0.0848
+Photocurrent J (-0.7 V),100.0,0.5,1.0,poly,-0.0502
+Photocurrent J (-0.7 V),1000.0,0.01,scale,rbf,0.248
+Photocurrent J (-0.7 V),1000.0,0.01,scale,poly,-0.082
+Photocurrent J (-0.7 V),1000.0,0.01,0.01,rbf,0.2921
+Photocurrent J (-0.7 V),1000.0,0.01,0.01,poly,-0.0821
+Photocurrent J (-0.7 V),1000.0,0.01,0.1,rbf,0.0104
+Photocurrent J (-0.7 V),1000.0,0.01,0.1,poly,-0.0821
+Photocurrent J (-0.7 V),1000.0,0.01,1.0,rbf,-0.0754
+Photocurrent J (-0.7 V),1000.0,0.01,1.0,poly,-0.082
+Photocurrent J (-0.7 V),1000.0,0.1,scale,rbf,0.2297
+Photocurrent J (-0.7 V),1000.0,0.1,scale,poly,-0.0328
+Photocurrent J (-0.7 V),1000.0,0.1,0.01,rbf,0.3328
+Photocurrent J (-0.7 V),1000.0,0.1,0.01,poly,-0.0327
+Photocurrent J (-0.7 V),1000.0,0.1,0.1,rbf,-0.0115
+Photocurrent J (-0.7 V),1000.0,0.1,0.1,poly,-0.0327
+Photocurrent J (-0.7 V),1000.0,0.1,1.0,rbf,-0.0748
+Photocurrent J (-0.7 V),1000.0,0.1,1.0,poly,-0.0327
+Photocurrent J (-0.7 V),1000.0,0.5,scale,rbf,0.0904
+Photocurrent J (-0.7 V),1000.0,0.5,scale,poly,-0.0502
+Photocurrent J (-0.7 V),1000.0,0.5,0.01,rbf,0.208
+Photocurrent J (-0.7 V),1000.0,0.5,0.01,poly,-0.0502
+Photocurrent J (-0.7 V),1000.0,0.5,0.1,rbf,-0.0671
+Photocurrent J (-0.7 V),1000.0,0.5,0.1,poly,-0.0502
+Photocurrent J (-0.7 V),1000.0,0.5,1.0,rbf,-0.0848
+Photocurrent J (-0.7 V),1000.0,0.5,1.0,poly,-0.0502
+Photocurrent J (-0.7 V),10000.0,0.01,scale,rbf,0.248
+Photocurrent J (-0.7 V),10000.0,0.01,scale,poly,-0.082
+Photocurrent J (-0.7 V),10000.0,0.01,0.01,rbf,0.2921
+Photocurrent J (-0.7 V),10000.0,0.01,0.01,poly,-0.0821
+Photocurrent J (-0.7 V),10000.0,0.01,0.1,rbf,0.0104
+Photocurrent J (-0.7 V),10000.0,0.01,0.1,poly,-0.0821
+Photocurrent J (-0.7 V),10000.0,0.01,1.0,rbf,-0.0754
+Photocurrent J (-0.7 V),10000.0,0.01,1.0,poly,-0.082
+Photocurrent J (-0.7 V),10000.0,0.1,scale,rbf,0.2297
+Photocurrent J (-0.7 V),10000.0,0.1,scale,poly,-0.0328
+Photocurrent J (-0.7 V),10000.0,0.1,0.01,rbf,0.3328
+Photocurrent J (-0.7 V),10000.0,0.1,0.01,poly,-0.0327
+Photocurrent J (-0.7 V),10000.0,0.1,0.1,rbf,-0.0115
+Photocurrent J (-0.7 V),10000.0,0.1,0.1,poly,-0.0327
+Photocurrent J (-0.7 V),10000.0,0.1,1.0,rbf,-0.0748
+Photocurrent J (-0.7 V),10000.0,0.1,1.0,poly,-0.0327
+Photocurrent J (-0.7 V),10000.0,0.5,scale,rbf,0.0904
+Photocurrent J (-0.7 V),10000.0,0.5,scale,poly,-0.0502
+Photocurrent J (-0.7 V),10000.0,0.5,0.01,rbf,0.208
+Photocurrent J (-0.7 V),10000.0,0.5,0.01,poly,-0.0502
+Photocurrent J (-0.7 V),10000.0,0.5,0.1,rbf,-0.0671
+Photocurrent J (-0.7 V),10000.0,0.5,0.1,poly,-0.0502
+Photocurrent J (-0.7 V),10000.0,0.5,1.0,rbf,-0.0848
+Photocurrent J (-0.7 V),10000.0,0.5,1.0,poly,-0.0502
+Charge transfer resistance,1.0,0.01,scale,rbf,-0.0276
+Charge transfer resistance,1.0,0.01,scale,poly,-0.0273
+Charge transfer resistance,1.0,0.01,0.01,rbf,-0.0275
+Charge transfer resistance,1.0,0.01,0.01,poly,-0.0286
+Charge transfer resistance,1.0,0.01,0.1,rbf,-0.0284
+Charge transfer resistance,1.0,0.01,0.1,poly,0.0107
+Charge transfer resistance,1.0,0.01,1.0,rbf,-0.0287
+Charge transfer resistance,1.0,0.01,1.0,poly,0.6191
+Charge transfer resistance,1.0,0.1,scale,rbf,-0.0276
+Charge transfer resistance,1.0,0.1,scale,poly,-0.0273
+Charge transfer resistance,1.0,0.1,0.01,rbf,-0.0275
+Charge transfer resistance,1.0,0.1,0.01,poly,-0.0286
+Charge transfer resistance,1.0,0.1,0.1,rbf,-0.0284
+Charge transfer resistance,1.0,0.1,0.1,poly,0.0107
+Charge transfer resistance,1.0,0.1,1.0,rbf,-0.0287
+Charge transfer resistance,1.0,0.1,1.0,poly,0.6191
+Charge transfer resistance,1.0,0.5,scale,rbf,-0.0276
+Charge transfer resistance,1.0,0.5,scale,poly,-0.0273
+Charge transfer resistance,1.0,0.5,0.01,rbf,-0.0275
+Charge transfer resistance,1.0,0.5,0.01,poly,-0.0286
+Charge transfer resistance,1.0,0.5,0.1,rbf,-0.0284
+Charge transfer resistance,1.0,0.5,0.1,poly,0.0107
+Charge transfer resistance,1.0,0.5,1.0,rbf,-0.0287
+Charge transfer resistance,1.0,0.5,1.0,poly,0.6191
+Charge transfer resistance,10.0,0.01,scale,rbf,-0.0181
+Charge transfer resistance,10.0,0.01,scale,poly,-0.0147
+Charge transfer resistance,10.0,0.01,0.01,rbf,-0.0165
+Charge transfer resistance,10.0,0.01,0.01,poly,-0.0283
+Charge transfer resistance,10.0,0.01,0.1,rbf,-0.0261
+Charge transfer resistance,10.0,0.01,0.1,poly,0.2499
+Charge transfer resistance,10.0,0.01,1.0,rbf,-0.0285
+Charge transfer resistance,10.0,0.01,1.0,poly,0.6191
+Charge transfer resistance,10.0,0.1,scale,rbf,-0.0181
+Charge transfer resistance,10.0,0.1,scale,poly,-0.0147
+Charge transfer resistance,10.0,0.1,0.01,rbf,-0.0165
+Charge transfer resistance,10.0,0.1,0.01,poly,-0.0283
+Charge transfer resistance,10.0,0.1,0.1,rbf,-0.026
+Charge transfer resistance,10.0,0.1,0.1,poly,0.2499
+Charge transfer resistance,10.0,0.1,1.0,rbf,-0.0285
+Charge transfer resistance,10.0,0.1,1.0,poly,0.6191
+Charge transfer resistance,10.0,0.5,scale,rbf,-0.0181
+Charge transfer resistance,10.0,0.5,scale,poly,-0.0147
+Charge transfer resistance,10.0,0.5,0.01,rbf,-0.0165
+Charge transfer resistance,10.0,0.5,0.01,poly,-0.0283
+Charge transfer resistance,10.0,0.5,0.1,rbf,-0.026
+Charge transfer resistance,10.0,0.5,0.1,poly,0.2499
+Charge transfer resistance,10.0,0.5,1.0,rbf,-0.0284
+Charge transfer resistance,10.0,0.5,1.0,poly,0.6191
+Charge transfer resistance,100.0,0.01,scale,rbf,0.0726
+Charge transfer resistance,100.0,0.01,scale,poly,0.082
+Charge transfer resistance,100.0,0.01,0.01,rbf,0.0852
+Charge transfer resistance,100.0,0.01,0.01,poly,-0.0245
+Charge transfer resistance,100.0,0.01,0.1,rbf,0.0009
+Charge transfer resistance,100.0,0.01,0.1,poly,0.631
+Charge transfer resistance,100.0,0.01,1.0,rbf,-0.0223
+Charge transfer resistance,100.0,0.01,1.0,poly,0.6191
+Charge transfer resistance,100.0,0.1,scale,rbf,0.0725
+Charge transfer resistance,100.0,0.1,scale,poly,0.082
+Charge transfer resistance,100.0,0.1,0.01,rbf,0.0852
+Charge transfer resistance,100.0,0.1,0.01,poly,-0.0245
+Charge transfer resistance,100.0,0.1,0.1,rbf,0.0009
+Charge transfer resistance,100.0,0.1,0.1,poly,0.631
+Charge transfer resistance,100.0,0.1,1.0,rbf,-0.0223
+Charge transfer resistance,100.0,0.1,1.0,poly,0.6191
+Charge transfer resistance,100.0,0.5,scale,rbf,0.0725
+Charge transfer resistance,100.0,0.5,scale,poly,0.0819
+Charge transfer resistance,100.0,0.5,0.01,rbf,0.0852
+Charge transfer resistance,100.0,0.5,0.01,poly,-0.0245
+Charge transfer resistance,100.0,0.5,0.1,rbf,0.001
+Charge transfer resistance,100.0,0.5,0.1,poly,0.631
+Charge transfer resistance,100.0,0.5,1.0,rbf,-0.0222
+Charge transfer resistance,100.0,0.5,1.0,poly,0.6191
+Charge transfer resistance,1000.0,0.01,scale,rbf,0.548
+Charge transfer resistance,1000.0,0.01,scale,poly,0.5139
+Charge transfer resistance,1000.0,0.01,0.01,rbf,0.6024
+Charge transfer resistance,1000.0,0.01,0.01,poly,0.0107
+Charge transfer resistance,1000.0,0.01,0.1,rbf,0.1609
+Charge transfer resistance,1000.0,0.01,0.1,poly,0.6191
+Charge transfer resistance,1000.0,0.01,1.0,rbf,-0.0234
+Charge transfer resistance,1000.0,0.01,1.0,poly,0.6191
+Charge transfer resistance,1000.0,0.1,scale,rbf,0.548
+Charge transfer resistance,1000.0,0.1,scale,poly,0.5139
+Charge transfer resistance,1000.0,0.1,0.01,rbf,0.6024
+Charge transfer resistance,1000.0,0.1,0.01,poly,0.0107
+Charge transfer resistance,1000.0,0.1,0.1,rbf,0.1609
+Charge transfer resistance,1000.0,0.1,0.1,poly,0.6191
+Charge transfer resistance,1000.0,0.1,1.0,rbf,-0.0234
+Charge transfer resistance,1000.0,0.1,1.0,poly,0.6191
+Charge transfer resistance,1000.0,0.5,scale,rbf,0.548
+Charge transfer resistance,1000.0,0.5,scale,poly,0.5139
+Charge transfer resistance,1000.0,0.5,0.01,rbf,0.6024
+Charge transfer resistance,1000.0,0.5,0.01,poly,0.0107
+Charge transfer resistance,1000.0,0.5,0.1,rbf,0.1609
+Charge transfer resistance,1000.0,0.5,0.1,poly,0.6191
+Charge transfer resistance,1000.0,0.5,1.0,rbf,-0.0234
+Charge transfer resistance,1000.0,0.5,1.0,poly,0.6191
+Charge transfer resistance,10000.0,0.01,scale,rbf,0.8289
+Charge transfer resistance,10000.0,0.01,scale,poly,0.6578
+Charge transfer resistance,10000.0,0.01,0.01,rbf,0.8983
+Charge transfer resistance,10000.0,0.01,0.01,poly,0.2499
+Charge transfer resistance,10000.0,0.01,0.1,rbf,0.4586
+Charge transfer resistance,10000.0,0.01,0.1,poly,0.6191
+Charge transfer resistance,10000.0,0.01,1.0,rbf,-0.0117
+Charge transfer resistance,10000.0,0.01,1.0,poly,0.6191
+Charge transfer resistance,10000.0,0.1,scale,rbf,0.8289
+Charge transfer resistance,10000.0,0.1,scale,poly,0.6578
+Charge transfer resistance,10000.0,0.1,0.01,rbf,0.8983
+Charge transfer resistance,10000.0,0.1,0.01,poly,0.2499
+Charge transfer resistance,10000.0,0.1,0.1,rbf,0.4586
+Charge transfer resistance,10000.0,0.1,0.1,poly,0.6191
+Charge transfer resistance,10000.0,0.1,1.0,rbf,-0.0117
+Charge transfer resistance,10000.0,0.1,1.0,poly,0.6191
+Charge transfer resistance,10000.0,0.5,scale,rbf,0.8289
+Charge transfer resistance,10000.0,0.5,scale,poly,0.6578
+Charge transfer resistance,10000.0,0.5,0.01,rbf,0.8984
+Charge transfer resistance,10000.0,0.5,0.01,poly,0.2499
+Charge transfer resistance,10000.0,0.5,0.1,rbf,0.4586
+Charge transfer resistance,10000.0,0.5,0.1,poly,0.6191
+Charge transfer resistance,10000.0,0.5,1.0,rbf,-0.0117
+Charge transfer resistance,10000.0,0.5,1.0,poly,0.6191
+LSPR resistance drop,1.0,0.01,scale,rbf,-0.0995
+LSPR resistance drop,1.0,0.01,scale,poly,-0.0998
+LSPR resistance drop,1.0,0.01,0.01,rbf,-0.0994
+LSPR resistance drop,1.0,0.01,0.01,poly,-0.1002
+LSPR resistance drop,1.0,0.01,0.1,rbf,-0.1001
+LSPR resistance drop,1.0,0.01,0.1,poly,-0.0891
+LSPR resistance drop,1.0,0.01,1.0,rbf,-0.1002
+LSPR resistance drop,1.0,0.01,1.0,poly,0.5397
+LSPR resistance drop,1.0,0.1,scale,rbf,-0.0995
+LSPR resistance drop,1.0,0.1,scale,poly,-0.0998
+LSPR resistance drop,1.0,0.1,0.01,rbf,-0.0994
+LSPR resistance drop,1.0,0.1,0.01,poly,-0.1002
+LSPR resistance drop,1.0,0.1,0.1,rbf,-0.1001
+LSPR resistance drop,1.0,0.1,0.1,poly,-0.0891
+LSPR resistance drop,1.0,0.1,1.0,rbf,-0.1002
+LSPR resistance drop,1.0,0.1,1.0,poly,0.5397
+LSPR resistance drop,1.0,0.5,scale,rbf,-0.0995
+LSPR resistance drop,1.0,0.5,scale,poly,-0.0998
+LSPR resistance drop,1.0,0.5,0.01,rbf,-0.0994
+LSPR resistance drop,1.0,0.5,0.01,poly,-0.1002
+LSPR resistance drop,1.0,0.5,0.1,rbf,-0.1001
+LSPR resistance drop,1.0,0.5,0.1,poly,-0.0891
+LSPR resistance drop,1.0,0.5,1.0,rbf,-0.1002
+LSPR resistance drop,1.0,0.5,1.0,poly,0.5397
+LSPR resistance drop,10.0,0.01,scale,rbf,-0.0932
+LSPR resistance drop,10.0,0.01,scale,poly,-0.0963
+LSPR resistance drop,10.0,0.01,0.01,rbf,-0.0921
+LSPR resistance drop,10.0,0.01,0.01,poly,-0.1001
+LSPR resistance drop,10.0,0.01,0.1,rbf,-0.0993
+LSPR resistance drop,10.0,0.01,0.1,poly,0.1109
+LSPR resistance drop,10.0,0.01,1.0,rbf,-0.1002
+LSPR resistance drop,10.0,0.01,1.0,poly,0.5397
+LSPR resistance drop,10.0,0.1,scale,rbf,-0.0932
+LSPR resistance drop,10.0,0.1,scale,poly,-0.0963
+LSPR resistance drop,10.0,0.1,0.01,rbf,-0.0921
+LSPR resistance drop,10.0,0.1,0.01,poly,-0.1001
+LSPR resistance drop,10.0,0.1,0.1,rbf,-0.0993
+LSPR resistance drop,10.0,0.1,0.1,poly,0.1109
+LSPR resistance drop,10.0,0.1,1.0,rbf,-0.1002
+LSPR resistance drop,10.0,0.1,1.0,poly,0.5397
+LSPR resistance drop,10.0,0.5,scale,rbf,-0.0932
+LSPR resistance drop,10.0,0.5,scale,poly,-0.0963
+LSPR resistance drop,10.0,0.5,0.01,rbf,-0.0921
+LSPR resistance drop,10.0,0.5,0.01,poly,-0.1001
+LSPR resistance drop,10.0,0.5,0.1,rbf,-0.0993
+LSPR resistance drop,10.0,0.5,0.1,poly,0.1109
+LSPR resistance drop,10.0,0.5,1.0,rbf,-0.1002
+LSPR resistance drop,10.0,0.5,1.0,poly,0.5397
+LSPR resistance drop,100.0,0.01,scale,rbf,-0.0448
+LSPR resistance drop,100.0,0.01,scale,poly,-0.0456
+LSPR resistance drop,100.0,0.01,0.01,rbf,-0.0505
+LSPR resistance drop,100.0,0.01,0.01,poly,-0.0991
+LSPR resistance drop,100.0,0.01,0.1,rbf,-0.0885
+LSPR resistance drop,100.0,0.01,0.1,poly,0.5235
+LSPR resistance drop,100.0,0.01,1.0,rbf,-0.1127
+LSPR resistance drop,100.0,0.01,1.0,poly,0.5397
+LSPR resistance drop,100.0,0.1,scale,rbf,-0.0447
+LSPR resistance drop,100.0,0.1,scale,poly,-0.0456
+LSPR resistance drop,100.0,0.1,0.01,rbf,-0.0505
+LSPR resistance drop,100.0,0.1,0.01,poly,-0.0991
+LSPR resistance drop,100.0,0.1,0.1,rbf,-0.0885
+LSPR resistance drop,100.0,0.1,0.1,poly,0.5235
+LSPR resistance drop,100.0,0.1,1.0,rbf,-0.1127
+LSPR resistance drop,100.0,0.1,1.0,poly,0.5397
+LSPR resistance drop,100.0,0.5,scale,rbf,-0.0446
+LSPR resistance drop,100.0,0.5,scale,poly,-0.0455
+LSPR resistance drop,100.0,0.5,0.01,rbf,-0.0506
+LSPR resistance drop,100.0,0.5,0.01,poly,-0.0991
+LSPR resistance drop,100.0,0.5,0.1,rbf,-0.0885
+LSPR resistance drop,100.0,0.5,0.1,poly,0.5234
+LSPR resistance drop,100.0,0.5,1.0,rbf,-0.1127
+LSPR resistance drop,100.0,0.5,1.0,poly,0.5397
+LSPR resistance drop,1000.0,0.01,scale,rbf,0.4392
+LSPR resistance drop,1000.0,0.01,scale,poly,0.372
+LSPR resistance drop,1000.0,0.01,0.01,rbf,0.3847
+LSPR resistance drop,1000.0,0.01,0.01,poly,-0.0891
+LSPR resistance drop,1000.0,0.01,0.1,rbf,0.1601
+LSPR resistance drop,1000.0,0.01,0.1,poly,0.5397
+LSPR resistance drop,1000.0,0.01,1.0,rbf,-0.0517
+LSPR resistance drop,1000.0,0.01,1.0,poly,0.5397
+LSPR resistance drop,1000.0,0.1,scale,rbf,0.4392
+LSPR resistance drop,1000.0,0.1,scale,poly,0.372
+LSPR resistance drop,1000.0,0.1,0.01,rbf,0.3847
+LSPR resistance drop,1000.0,0.1,0.01,poly,-0.0891
+LSPR resistance drop,1000.0,0.1,0.1,rbf,0.1601
+LSPR resistance drop,1000.0,0.1,0.1,poly,0.5397
+LSPR resistance drop,1000.0,0.1,1.0,rbf,-0.0517
+LSPR resistance drop,1000.0,0.1,1.0,poly,0.5397
+LSPR resistance drop,1000.0,0.5,scale,rbf,0.4391
+LSPR resistance drop,1000.0,0.5,scale,poly,0.372
+LSPR resistance drop,1000.0,0.5,0.01,rbf,0.3848
+LSPR resistance drop,1000.0,0.5,0.01,poly,-0.0891
+LSPR resistance drop,1000.0,0.5,0.1,rbf,0.1601
+LSPR resistance drop,1000.0,0.5,0.1,poly,0.5397
+LSPR resistance drop,1000.0,0.5,1.0,rbf,-0.0517
+LSPR resistance drop,1000.0,0.5,1.0,poly,0.5397
+LSPR resistance drop,10000.0,0.01,scale,rbf,0.7237
+LSPR resistance drop,10000.0,0.01,scale,poly,0.5397
+LSPR resistance drop,10000.0,0.01,0.01,rbf,0.837
+LSPR resistance drop,10000.0,0.01,0.01,poly,0.1109
+LSPR resistance drop,10000.0,0.01,0.1,rbf,0.3637
+LSPR resistance drop,10000.0,0.01,0.1,poly,0.5397
+LSPR resistance drop,10000.0,0.01,1.0,rbf,-0.049
+LSPR resistance drop,10000.0,0.01,1.0,poly,0.5397
+LSPR resistance drop,10000.0,0.1,scale,rbf,0.7237
+LSPR resistance drop,10000.0,0.1,scale,poly,0.5397
+LSPR resistance drop,10000.0,0.1,0.01,rbf,0.837
+LSPR resistance drop,10000.0,0.1,0.01,poly,0.1109
+LSPR resistance drop,10000.0,0.1,0.1,rbf,0.3637
+LSPR resistance drop,10000.0,0.1,0.1,poly,0.5397
+LSPR resistance drop,10000.0,0.1,1.0,rbf,-0.049
+LSPR resistance drop,10000.0,0.1,1.0,poly,0.5397
+LSPR resistance drop,10000.0,0.5,scale,rbf,0.7237
+LSPR resistance drop,10000.0,0.5,scale,poly,0.5397
+LSPR resistance drop,10000.0,0.5,0.01,rbf,0.837
+LSPR resistance drop,10000.0,0.5,0.01,poly,0.1109
+LSPR resistance drop,10000.0,0.5,0.1,rbf,0.3636
+LSPR resistance drop,10000.0,0.5,0.1,poly,0.5397
+LSPR resistance drop,10000.0,0.5,1.0,rbf,-0.049
+LSPR resistance drop,10000.0,0.5,1.0,poly,0.5397
+Relaxation time,1.0,0.01,scale,rbf,0.7172
+Relaxation time,1.0,0.01,scale,poly,0.6667
+Relaxation time,1.0,0.01,0.01,rbf,0.8635
+Relaxation time,1.0,0.01,0.01,poly,0.4313
+Relaxation time,1.0,0.01,0.1,rbf,0.2797
+Relaxation time,1.0,0.01,0.1,poly,0.6664
+Relaxation time,1.0,0.01,1.0,rbf,-0.0228
+Relaxation time,1.0,0.01,1.0,poly,0.6667
+Relaxation time,1.0,0.1,scale,rbf,-0.2723
+Relaxation time,1.0,0.1,scale,poly,-0.2723
+Relaxation time,1.0,0.1,0.01,rbf,-0.2723
+Relaxation time,1.0,0.1,0.01,poly,-0.2723
+Relaxation time,1.0,0.1,0.1,rbf,-0.2723
+Relaxation time,1.0,0.1,0.1,poly,-0.2723
+Relaxation time,1.0,0.1,1.0,rbf,-0.2723
+Relaxation time,1.0,0.1,1.0,poly,-0.2723
+Relaxation time,1.0,0.5,scale,rbf,-0.2723
+Relaxation time,1.0,0.5,scale,poly,-0.2723
+Relaxation time,1.0,0.5,0.01,rbf,-0.2723
+Relaxation time,1.0,0.5,0.01,poly,-0.2723
+Relaxation time,1.0,0.5,0.1,rbf,-0.2723
+Relaxation time,1.0,0.5,0.1,poly,-0.2723
+Relaxation time,1.0,0.5,1.0,rbf,-0.2723
+Relaxation time,1.0,0.5,1.0,poly,-0.2723
+Relaxation time,10.0,0.01,scale,rbf,0.7172
+Relaxation time,10.0,0.01,scale,poly,0.6667
+Relaxation time,10.0,0.01,0.01,rbf,0.8635
+Relaxation time,10.0,0.01,0.01,poly,0.6655
+Relaxation time,10.0,0.01,0.1,rbf,0.2797
+Relaxation time,10.0,0.01,0.1,poly,0.6664
+Relaxation time,10.0,0.01,1.0,rbf,-0.0228
+Relaxation time,10.0,0.01,1.0,poly,0.6667
+Relaxation time,10.0,0.1,scale,rbf,-0.2723
+Relaxation time,10.0,0.1,scale,poly,-0.2723
+Relaxation time,10.0,0.1,0.01,rbf,-0.2723
+Relaxation time,10.0,0.1,0.01,poly,-0.2723
+Relaxation time,10.0,0.1,0.1,rbf,-0.2723
+Relaxation time,10.0,0.1,0.1,poly,-0.2723
+Relaxation time,10.0,0.1,1.0,rbf,-0.2723
+Relaxation time,10.0,0.1,1.0,poly,-0.2723
+Relaxation time,10.0,0.5,scale,rbf,-0.2723
+Relaxation time,10.0,0.5,scale,poly,-0.2723
+Relaxation time,10.0,0.5,0.01,rbf,-0.2723
+Relaxation time,10.0,0.5,0.01,poly,-0.2723
+Relaxation time,10.0,0.5,0.1,rbf,-0.2723
+Relaxation time,10.0,0.5,0.1,poly,-0.2723
+Relaxation time,10.0,0.5,1.0,rbf,-0.2723
+Relaxation time,10.0,0.5,1.0,poly,-0.2723
+Relaxation time,100.0,0.01,scale,rbf,0.7172
+Relaxation time,100.0,0.01,scale,poly,0.6667
+Relaxation time,100.0,0.01,0.01,rbf,0.8635
+Relaxation time,100.0,0.01,0.01,poly,0.6666
+Relaxation time,100.0,0.01,0.1,rbf,0.2797
+Relaxation time,100.0,0.01,0.1,poly,0.6664
+Relaxation time,100.0,0.01,1.0,rbf,-0.0228
+Relaxation time,100.0,0.01,1.0,poly,0.6667
+Relaxation time,100.0,0.1,scale,rbf,-0.2723
+Relaxation time,100.0,0.1,scale,poly,-0.2723
+Relaxation time,100.0,0.1,0.01,rbf,-0.2723
+Relaxation time,100.0,0.1,0.01,poly,-0.2723
+Relaxation time,100.0,0.1,0.1,rbf,-0.2723
+Relaxation time,100.0,0.1,0.1,poly,-0.2723
+Relaxation time,100.0,0.1,1.0,rbf,-0.2723
+Relaxation time,100.0,0.1,1.0,poly,-0.2723
+Relaxation time,100.0,0.5,scale,rbf,-0.2723
+Relaxation time,100.0,0.5,scale,poly,-0.2723
+Relaxation time,100.0,0.5,0.01,rbf,-0.2723
+Relaxation time,100.0,0.5,0.01,poly,-0.2723
+Relaxation time,100.0,0.5,0.1,rbf,-0.2723
+Relaxation time,100.0,0.5,0.1,poly,-0.2723
+Relaxation time,100.0,0.5,1.0,rbf,-0.2723
+Relaxation time,100.0,0.5,1.0,poly,-0.2723
+Relaxation time,1000.0,0.01,scale,rbf,0.7172
+Relaxation time,1000.0,0.01,scale,poly,0.6667
+Relaxation time,1000.0,0.01,0.01,rbf,0.8635
+Relaxation time,1000.0,0.01,0.01,poly,0.6666
+Relaxation time,1000.0,0.01,0.1,rbf,0.2797
+Relaxation time,1000.0,0.01,0.1,poly,0.6664
+Relaxation time,1000.0,0.01,1.0,rbf,-0.0228
+Relaxation time,1000.0,0.01,1.0,poly,0.6667
+Relaxation time,1000.0,0.1,scale,rbf,-0.2723
+Relaxation time,1000.0,0.1,scale,poly,-0.2723
+Relaxation time,1000.0,0.1,0.01,rbf,-0.2723
+Relaxation time,1000.0,0.1,0.01,poly,-0.2723
+Relaxation time,1000.0,0.1,0.1,rbf,-0.2723
+Relaxation time,1000.0,0.1,0.1,poly,-0.2723
+Relaxation time,1000.0,0.1,1.0,rbf,-0.2723
+Relaxation time,1000.0,0.1,1.0,poly,-0.2723
+Relaxation time,1000.0,0.5,scale,rbf,-0.2723
+Relaxation time,1000.0,0.5,scale,poly,-0.2723
+Relaxation time,1000.0,0.5,0.01,rbf,-0.2723
+Relaxation time,1000.0,0.5,0.01,poly,-0.2723
+Relaxation time,1000.0,0.5,0.1,rbf,-0.2723
+Relaxation time,1000.0,0.5,0.1,poly,-0.2723
+Relaxation time,1000.0,0.5,1.0,rbf,-0.2723
+Relaxation time,1000.0,0.5,1.0,poly,-0.2723
+Relaxation time,10000.0,0.01,scale,rbf,0.7172
+Relaxation time,10000.0,0.01,scale,poly,0.6667
+Relaxation time,10000.0,0.01,0.01,rbf,0.8635
+Relaxation time,10000.0,0.01,0.01,poly,0.6666
+Relaxation time,10000.0,0.01,0.1,rbf,0.2797
+Relaxation time,10000.0,0.01,0.1,poly,0.6664
+Relaxation time,10000.0,0.01,1.0,rbf,-0.0228
+Relaxation time,10000.0,0.01,1.0,poly,0.6667
+Relaxation time,10000.0,0.1,scale,rbf,-0.2723
+Relaxation time,10000.0,0.1,scale,poly,-0.2723
+Relaxation time,10000.0,0.1,0.01,rbf,-0.2723
+Relaxation time,10000.0,0.1,0.01,poly,-0.2723
+Relaxation time,10000.0,0.1,0.1,rbf,-0.2723
+Relaxation time,10000.0,0.1,0.1,poly,-0.2723
+Relaxation time,10000.0,0.1,1.0,rbf,-0.2723
+Relaxation time,10000.0,0.1,1.0,poly,-0.2723
+Relaxation time,10000.0,0.5,scale,rbf,-0.2723
+Relaxation time,10000.0,0.5,scale,poly,-0.2723
+Relaxation time,10000.0,0.5,0.01,rbf,-0.2723
+Relaxation time,10000.0,0.5,0.01,poly,-0.2723
+Relaxation time,10000.0,0.5,0.1,rbf,-0.2723
+Relaxation time,10000.0,0.5,0.1,poly,-0.2723
+Relaxation time,10000.0,0.5,1.0,rbf,-0.2723
+Relaxation time,10000.0,0.5,1.0,poly,-0.2723
+Tafel slope,1.0,0.01,scale,rbf,-0.0282
+Tafel slope,1.0,0.01,scale,poly,-0.0334
+Tafel slope,1.0,0.01,0.01,rbf,-0.0258
+Tafel slope,1.0,0.01,0.01,poly,-0.0074
+Tafel slope,1.0,0.01,0.1,rbf,-0.0222
+Tafel slope,1.0,0.01,0.1,poly,-0.4261
+Tafel slope,1.0,0.01,1.0,rbf,-0.0129
+Tafel slope,1.0,0.01,1.0,poly,-1.2101
+Tafel slope,1.0,0.1,scale,rbf,-0.029
+Tafel slope,1.0,0.1,scale,poly,-0.0348
+Tafel slope,1.0,0.1,0.01,rbf,-0.026
+Tafel slope,1.0,0.1,0.01,poly,-0.0071
+Tafel slope,1.0,0.1,0.1,rbf,-0.0233
+Tafel slope,1.0,0.1,0.1,poly,-0.426
+Tafel slope,1.0,0.1,1.0,rbf,-0.0149
+Tafel slope,1.0,0.1,1.0,poly,-1.2092
+Tafel slope,1.0,0.5,scale,rbf,-0.0338
+Tafel slope,1.0,0.5,scale,poly,-0.0426
+Tafel slope,1.0,0.5,0.01,rbf,-0.0302
+Tafel slope,1.0,0.5,0.01,poly,-0.0129
+Tafel slope,1.0,0.5,0.1,rbf,-0.0322
+Tafel slope,1.0,0.5,0.1,poly,-0.4254
+Tafel slope,1.0,0.5,1.0,rbf,-0.0241
+Tafel slope,1.0,0.5,1.0,poly,-1.2052
+Tafel slope,10.0,0.01,scale,rbf,-0.254
+Tafel slope,10.0,0.01,scale,poly,-0.2639
+Tafel slope,10.0,0.01,0.01,rbf,-0.2219
+Tafel slope,10.0,0.01,0.01,poly,-0.0131
+Tafel slope,10.0,0.01,0.1,rbf,-0.1019
+Tafel slope,10.0,0.01,0.1,poly,-1.1299
+Tafel slope,10.0,0.01,1.0,rbf,-0.0415
+Tafel slope,10.0,0.01,1.0,poly,-1.2101
+Tafel slope,10.0,0.1,scale,rbf,-0.2528
+Tafel slope,10.0,0.1,scale,poly,-0.264
+Tafel slope,10.0,0.1,0.01,rbf,-0.2217
+Tafel slope,10.0,0.1,0.01,poly,-0.0139
+Tafel slope,10.0,0.1,0.1,rbf,-0.1018
+Tafel slope,10.0,0.1,0.1,poly,-1.1289
+Tafel slope,10.0,0.1,1.0,rbf,-0.0419
+Tafel slope,10.0,0.1,1.0,poly,-1.2092
+Tafel slope,10.0,0.5,scale,rbf,-0.2487
+Tafel slope,10.0,0.5,scale,poly,-0.2634
+Tafel slope,10.0,0.5,0.01,rbf,-0.2224
+Tafel slope,10.0,0.5,0.01,poly,-0.0222
+Tafel slope,10.0,0.5,0.1,rbf,-0.1025
+Tafel slope,10.0,0.5,0.1,poly,-1.1248
+Tafel slope,10.0,0.5,1.0,rbf,-0.0426
+Tafel slope,10.0,0.5,1.0,poly,-1.2052
+Tafel slope,100.0,0.01,scale,rbf,-0.3452
+Tafel slope,100.0,0.01,scale,poly,-0.8897
+Tafel slope,100.0,0.01,0.01,rbf,-0.2911
+Tafel slope,100.0,0.01,0.01,poly,-0.1207
+Tafel slope,100.0,0.01,0.1,rbf,-0.2794
+Tafel slope,100.0,0.01,0.1,poly,-1.2101
+Tafel slope,100.0,0.01,1.0,rbf,-0.0775
+Tafel slope,100.0,0.01,1.0,poly,-1.2101
+Tafel slope,100.0,0.1,scale,rbf,-0.3453
+Tafel slope,100.0,0.1,scale,poly,-0.8893
+Tafel slope,100.0,0.1,0.01,rbf,-0.2906
+Tafel slope,100.0,0.1,0.01,poly,-0.1217
+Tafel slope,100.0,0.1,0.1,rbf,-0.2792
+Tafel slope,100.0,0.1,0.1,poly,-1.2092
+Tafel slope,100.0,0.1,1.0,rbf,-0.0775
+Tafel slope,100.0,0.1,1.0,poly,-1.2092
+Tafel slope,100.0,0.5,scale,rbf,-0.3449
+Tafel slope,100.0,0.5,scale,poly,-0.888
+Tafel slope,100.0,0.5,0.01,rbf,-0.2904
+Tafel slope,100.0,0.5,0.01,poly,-0.1251
+Tafel slope,100.0,0.5,0.1,rbf,-0.2786
+Tafel slope,100.0,0.5,0.1,poly,-1.2052
+Tafel slope,100.0,0.5,1.0,rbf,-0.0776
+Tafel slope,100.0,0.5,1.0,poly,-1.2052
+Tafel slope,1000.0,0.01,scale,rbf,-0.6334
+Tafel slope,1000.0,0.01,scale,poly,-1.214
+Tafel slope,1000.0,0.01,0.01,rbf,-0.7739
+Tafel slope,1000.0,0.01,0.01,poly,-0.4261
+Tafel slope,1000.0,0.01,0.1,rbf,-0.4207
+Tafel slope,1000.0,0.01,0.1,poly,-1.2101
+Tafel slope,1000.0,0.01,1.0,rbf,-0.0797
+Tafel slope,1000.0,0.01,1.0,poly,-1.2101
+Tafel slope,1000.0,0.1,scale,rbf,-0.6326
+Tafel slope,1000.0,0.1,scale,poly,-1.213
+Tafel slope,1000.0,0.1,0.01,rbf,-0.7721
+Tafel slope,1000.0,0.1,0.01,poly,-0.426
+Tafel slope,1000.0,0.1,0.1,rbf,-0.4204
+Tafel slope,1000.0,0.1,0.1,poly,-1.2092
+Tafel slope,1000.0,0.1,1.0,rbf,-0.0798
+Tafel slope,1000.0,0.1,1.0,poly,-1.2092
+Tafel slope,1000.0,0.5,scale,rbf,-0.63
+Tafel slope,1000.0,0.5,scale,poly,-1.2086
+Tafel slope,1000.0,0.5,0.01,rbf,-0.7628
+Tafel slope,1000.0,0.5,0.01,poly,-0.4254
+Tafel slope,1000.0,0.5,0.1,rbf,-0.4192
+Tafel slope,1000.0,0.5,0.1,poly,-1.2052
+Tafel slope,1000.0,0.5,1.0,rbf,-0.0802
+Tafel slope,1000.0,0.5,1.0,poly,-1.2052
+Tafel slope,10000.0,0.01,scale,rbf,-0.6338
+Tafel slope,10000.0,0.01,scale,poly,-1.2101
+Tafel slope,10000.0,0.01,0.01,rbf,-1.0879
+Tafel slope,10000.0,0.01,0.01,poly,-1.1299
+Tafel slope,10000.0,0.01,0.1,rbf,-0.4207
+Tafel slope,10000.0,0.01,0.1,poly,-1.2101
+Tafel slope,10000.0,0.01,1.0,rbf,-0.0797
+Tafel slope,10000.0,0.01,1.0,poly,-1.2101
+Tafel slope,10000.0,0.1,scale,rbf,-0.6331
+Tafel slope,10000.0,0.1,scale,poly,-1.2092
+Tafel slope,10000.0,0.1,0.01,rbf,-1.0861
+Tafel slope,10000.0,0.1,0.01,poly,-1.1289
+Tafel slope,10000.0,0.1,0.1,rbf,-0.4204
+Tafel slope,10000.0,0.1,0.1,poly,-1.2092
+Tafel slope,10000.0,0.1,1.0,rbf,-0.0798
+Tafel slope,10000.0,0.1,1.0,poly,-1.2092
+Tafel slope,10000.0,0.5,scale,rbf,-0.6303
+Tafel slope,10000.0,0.5,scale,poly,-1.2052
+Tafel slope,10000.0,0.5,0.01,rbf,-1.0774
+Tafel slope,10000.0,0.5,0.01,poly,-1.1248
+Tafel slope,10000.0,0.5,0.1,rbf,-0.4192
+Tafel slope,10000.0,0.5,0.1,poly,-1.2052
+Tafel slope,10000.0,0.5,1.0,rbf,-0.0802
+Tafel slope,10000.0,0.5,1.0,poly,-1.2052

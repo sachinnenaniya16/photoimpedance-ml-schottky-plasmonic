@@ -1,0 +1,26 @@
+Target,Model,n,R2_train,R2_GroupedLOOCV,RMSE,MAE,NRMSE_pct
+Photocurrent J (-0.7 V),Baseline_Mean,84,0.0,-0.0754,0.685,0.5711,29.4
+Photocurrent J (-0.7 V),Baseline_OLS,84,0.9046,0.162,0.6047,0.5006,26.0
+Photocurrent J (-0.7 V),LASSO,84,0.8712,0.4209,0.5026,0.3922,21.6
+Photocurrent J (-0.7 V),RF,84,0.9531,0.2678,0.5652,0.4411,24.3
+Photocurrent J (-0.7 V),GPR,84,1.0,0.3507,0.5322,0.3925,22.8
+Charge transfer resistance,Baseline_Mean,84,0.0,-0.0121,3561.6713,2997.899,27.8
+Charge transfer resistance,Baseline_OLS,84,0.9652,0.8795,1229.0351,789.8654,9.6
+Charge transfer resistance,LASSO,84,0.9652,0.8797,1227.7264,789.4108,9.6
+Charge transfer resistance,RF,84,0.9637,0.8847,1202.0277,889.9352,9.4
+Charge transfer resistance,GPR,84,1.0,0.9088,1069.3619,690.1688,8.4
+LSPR resistance drop,Baseline_Mean,84,0.0,-0.0493,2210.8665,1630.465,24.6
+LSPR resistance drop,Baseline_OLS,84,0.9459,0.8126,934.3633,718.7038,10.4
+LSPR resistance drop,LASSO,84,0.9459,0.8126,934.4191,718.755,10.4
+LSPR resistance drop,RF,84,0.9213,0.6177,1334.4094,926.4199,14.8
+LSPR resistance drop,GPR,84,1.0,0.7911,986.3653,740.6938,11.0
+Relaxation time,Baseline_Mean,84,0.0,-0.0208,0.0503,0.0421,32.5
+Relaxation time,Baseline_OLS,84,0.943,0.6992,0.0273,0.0182,17.6
+Relaxation time,LASSO,84,0.82,0.8072,0.0219,0.0155,14.1
+Relaxation time,RF,84,0.9124,0.6709,0.0286,0.02,18.4
+Relaxation time,GPR,84,1.0,0.8602,0.0186,0.0126,12.0
+Tafel slope,Baseline_Mean,84,0.0,-0.0754,70.5723,54.4698,26.7
+Tafel slope,Baseline_OLS,84,0.6985,-1.3919,105.2481,81.2361,39.9
+Tafel slope,LASSO,84,0.6984,-1.3724,104.8184,81.0067,39.7
+Tafel slope,RF,84,0.876,-0.5517,84.769,65.299,32.1
+Tafel slope,GPR,84,0.9761,-0.5861,85.7046,65.9676,32.5

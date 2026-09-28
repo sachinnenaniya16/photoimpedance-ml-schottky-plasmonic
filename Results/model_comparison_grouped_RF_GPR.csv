@@ -1,0 +1,11 @@
+Target,Model,n,n_groups,R2_train,R2_GroupedLOOCV
+Photocurrent J (-0.7 V),RF,84,28,0.9531,0.2678
+Photocurrent J (-0.7 V),GPR,84,28,1.0,0.3507
+Charge transfer resistance,RF,84,28,0.9637,0.8847
+Charge transfer resistance,GPR,84,28,1.0,0.9088
+LSPR resistance drop,RF,84,28,0.9213,0.6177
+LSPR resistance drop,GPR,84,28,1.0,0.7911
+Relaxation time,RF,84,28,0.9124,0.6709
+Relaxation time,GPR,84,28,1.0,0.8602
+Tafel slope,RF,84,28,0.876,-0.5517
+Tafel slope,GPR,84,28,0.9761,-0.5861

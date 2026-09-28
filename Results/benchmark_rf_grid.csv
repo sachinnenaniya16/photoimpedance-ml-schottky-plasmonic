@@ -1,0 +1,91 @@
+Target,max_depth,max_features,min_samples_leaf,R2_GroupedLOOCV
+Photocurrent J (-0.7 V),,sqrt,2,0.2562
+Photocurrent J (-0.7 V),,sqrt,4,0.2415
+Photocurrent J (-0.7 V),,0.5,2,0.4721
+Photocurrent J (-0.7 V),,0.5,4,0.4755
+Photocurrent J (-0.7 V),,1.0,2,0.4844
+Photocurrent J (-0.7 V),,1.0,4,0.4974
+Photocurrent J (-0.7 V),5.0,sqrt,2,0.2577
+Photocurrent J (-0.7 V),5.0,sqrt,4,0.2397
+Photocurrent J (-0.7 V),5.0,0.5,2,0.463
+Photocurrent J (-0.7 V),5.0,0.5,4,0.4763
+Photocurrent J (-0.7 V),5.0,1.0,2,0.4872
+Photocurrent J (-0.7 V),5.0,1.0,4,0.4961
+Photocurrent J (-0.7 V),10.0,sqrt,2,0.2567
+Photocurrent J (-0.7 V),10.0,sqrt,4,0.2415
+Photocurrent J (-0.7 V),10.0,0.5,2,0.4721
+Photocurrent J (-0.7 V),10.0,0.5,4,0.4755
+Photocurrent J (-0.7 V),10.0,1.0,2,0.4844
+Photocurrent J (-0.7 V),10.0,1.0,4,0.4974
+Charge transfer resistance,,sqrt,2,0.8846
+Charge transfer resistance,,sqrt,4,0.8494
+Charge transfer resistance,,0.5,2,0.9128
+Charge transfer resistance,,0.5,4,0.8994
+Charge transfer resistance,,1.0,2,0.8999
+Charge transfer resistance,,1.0,4,0.886
+Charge transfer resistance,5.0,sqrt,2,0.8795
+Charge transfer resistance,5.0,sqrt,4,0.8491
+Charge transfer resistance,5.0,0.5,2,0.9111
+Charge transfer resistance,5.0,0.5,4,0.8994
+Charge transfer resistance,5.0,1.0,2,0.8983
+Charge transfer resistance,5.0,1.0,4,0.886
+Charge transfer resistance,10.0,sqrt,2,0.8846
+Charge transfer resistance,10.0,sqrt,4,0.8494
+Charge transfer resistance,10.0,0.5,2,0.9128
+Charge transfer resistance,10.0,0.5,4,0.8994
+Charge transfer resistance,10.0,1.0,2,0.9
+Charge transfer resistance,10.0,1.0,4,0.886
+LSPR resistance drop,,sqrt,2,0.6159
+LSPR resistance drop,,sqrt,4,0.5341
+LSPR resistance drop,,0.5,2,0.7429
+LSPR resistance drop,,0.5,4,0.6687
+LSPR resistance drop,,1.0,2,0.8233
+LSPR resistance drop,,1.0,4,0.7544
+LSPR resistance drop,5.0,sqrt,2,0.5957
+LSPR resistance drop,5.0,sqrt,4,0.5292
+LSPR resistance drop,5.0,0.5,2,0.7248
+LSPR resistance drop,5.0,0.5,4,0.6629
+LSPR resistance drop,5.0,1.0,2,0.8141
+LSPR resistance drop,5.0,1.0,4,0.7527
+LSPR resistance drop,10.0,sqrt,2,0.6162
+LSPR resistance drop,10.0,sqrt,4,0.5341
+LSPR resistance drop,10.0,0.5,2,0.7427
+LSPR resistance drop,10.0,0.5,4,0.6687
+LSPR resistance drop,10.0,1.0,2,0.8232
+LSPR resistance drop,10.0,1.0,4,0.7544
+Relaxation time,,sqrt,2,0.6696
+Relaxation time,,sqrt,4,0.641
+Relaxation time,,0.5,2,0.8043
+Relaxation time,,0.5,4,0.7851
+Relaxation time,,1.0,2,0.8001
+Relaxation time,,1.0,4,0.779
+Relaxation time,5.0,sqrt,2,0.6614
+Relaxation time,5.0,sqrt,4,0.6427
+Relaxation time,5.0,0.5,2,0.798
+Relaxation time,5.0,0.5,4,0.7865
+Relaxation time,5.0,1.0,2,0.7991
+Relaxation time,5.0,1.0,4,0.7787
+Relaxation time,10.0,sqrt,2,0.6695
+Relaxation time,10.0,sqrt,4,0.641
+Relaxation time,10.0,0.5,2,0.8043
+Relaxation time,10.0,0.5,4,0.7851
+Relaxation time,10.0,1.0,2,0.8001
+Relaxation time,10.0,1.0,4,0.779
+Tafel slope,,sqrt,2,-0.5544
+Tafel slope,,sqrt,4,-0.4801
+Tafel slope,,0.5,2,-0.5176
+Tafel slope,,0.5,4,-0.4665
+Tafel slope,,1.0,2,-0.4107
+Tafel slope,,1.0,4,-0.3082
+Tafel slope,5.0,sqrt,2,-0.558
+Tafel slope,5.0,sqrt,4,-0.4815
+Tafel slope,5.0,0.5,2,-0.5726
+Tafel slope,5.0,0.5,4,-0.4655
+Tafel slope,5.0,1.0,2,-0.4232
+Tafel slope,5.0,1.0,4,-0.3076
+Tafel slope,10.0,sqrt,2,-0.556
+Tafel slope,10.0,sqrt,4,-0.4801
+Tafel slope,10.0,0.5,2,-0.5148
+Tafel slope,10.0,0.5,4,-0.4665
+Tafel slope,10.0,1.0,2,-0.411
+Tafel slope,10.0,1.0,4,-0.3082

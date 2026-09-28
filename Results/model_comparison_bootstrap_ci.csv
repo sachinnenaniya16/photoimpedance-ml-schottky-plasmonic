@@ -1,0 +1,6 @@
+Target,Model,R2_point,CI_low,CI_high,CI_width
+Photocurrent J (-0.7 V),LASSO,0.4209,0.1553,0.6077,0.4525
+Charge transfer resistance,GPR,0.9088,0.8766,0.9467,0.0702
+LSPR resistance drop,LASSO,0.8126,0.658,0.8951,0.2371
+Relaxation time,GPR,0.8602,0.8274,0.8977,0.0703
+Tafel slope,RF,-0.5517,-1.0026,-0.2675,0.735
